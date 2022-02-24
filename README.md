@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ahnissingh
-- 👀 I’m interested in C#,Java
-- 🌱 I’m currently learning C#,C++
+- 👀 Java Developer
+- 🌱 I’m currently learning C++,Python
 - 📫 How to reach me ...ahnisaneja@gmail.com
