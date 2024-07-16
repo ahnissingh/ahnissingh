@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ahnissingh
-- 👀 Java Developer
-- 🌱 I’m currently learning Spring Framework
+
 - 📫 How to reach me ...ahnisaneja@gmail.com
